@@ -8,7 +8,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/nithyavbs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=QA+Automation+Engineer+4++yrs+of+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&multiline=true&width=435&lines=QA+Automation+Engineer+with+4%2BYrs+of+;Experience" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
