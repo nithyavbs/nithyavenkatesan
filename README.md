@@ -43,7 +43,7 @@
 
 🎓 Certifications: **Manual Testing-Lambda Test, Oracle-SQL Basics, JAVA - Basics, Selector Hub**
 
-⚡ Fun fact: **I love testing**
+⚡ Fun fact: **I love debugging - RCA**
 
 <br clear="right"/>
 ---
