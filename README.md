@@ -4,11 +4,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-//<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Naveen%20AutomationLabs&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Test%20Automation%20Architect&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nithya%20Venkatesan" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/nithyavbs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Empowering%201M%2B%20QA%20Engineers%20to%20Master%20Test%20Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=QA+Automation+Engineer" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -120,7 +120,6 @@
 //<a href="https://github.com/naveenanimation20/SeleniumJavaCourse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenanimation20&repo=SeleniumJavaCourse&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="SeleniumJavaCourse"/></a>
 <a href="https://github.com/nithyavbs/Selenium/tree/main/CucumberProjectT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenanimation20&repo=CucumberSeleniumFramework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="CucumberSeleniumFramework"/></a>
 <a href="https://github.com/nithyavbs/Selenium/tree/main/TestNgProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenanimation20&repo=LatestCucumber6WithPOM&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="TestNG Framework Project"/></a>
-//<a href="https://github.com/naveenanimation20/SeleniumInterviewQuestions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenanimation20&repo=SeleniumInterviewQuestions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="SeleniumInterviewQuestions"/></a>
 
 </div>
 
@@ -131,54 +130,30 @@
 <tr>
 <th>🚀 Project</th>
 <th>📝 Description</th>
-//<th>⭐ Stars</th>
-//<th>🍴 Forks</th>
 <th>💻 Language</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/naveenanimation20/PageObjectModel"><b>PageObjectModel</b></a></td>
+<td><a href="https://github.com/nithyavbs/ECommerce/tree/master"><b>PageObjectModel</b></a></td>
 <td>Page Object Model with - Selenium + Java + TestNG</td>
-//<td><img src="https://img.shields.io/badge/566-gold?style=flat-square&logo=star" alt="stars"/></td>
-//<td><img src="https://img.shields.io/badge/1299-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/naveenanimation20/SeleniumJavaCourse"><b>SeleniumJavaCourse</b></a></td>
+<td><a href="https://github.com/nithyavbs/Selenium"><b>SeleniumJavaCourse</b></a></td>
 <td>Selenium Java Code for all selenium sessions - WebDriver, Te...</td>
-<td><img src="https://img.shields.io/badge/287-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/440-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/naveenanimation20/CucumberSeleniumFramework"><b>CucumberSeleniumFramework</b></a></td>
+<td><a href="https://github.com/nithyavbs/Selenium/tree/main/CucumberProjectT"><b>CucumberSeleniumFramework</b></a></td>
 <td>CucumberSeleniumFramework</td>
-<td><img src="https://img.shields.io/badge/136-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/450-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/naveenanimation20/LatestCucumber6WithPOM"><b>LatestCucumber6WithPOM</b></a></td>
-<td>Latest Cucumber6 BDD framework with POM(Page Object Model)</td>
-<td><img src="https://img.shields.io/badge/106-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/341-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><a href="https://github.com/nithyavbs/Selenium/tree/main/TestNgProject"><b>LatestCucumber6WithPOM</b></a></td>
+<td>TestNG framework with POM(Page Object Model)</td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
-<tr>
-<td><a href="https://github.com/naveenanimation20/SeleniumInterviewQuestions"><b>SeleniumInterviewQuestions</b></a></td>
-<td>200+ Selenium Interview Questions</td>
-<td><img src="https://img.shields.io/badge/65-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/98-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<! <tr>
-<td><a href="https://github.com/naveenanimation20/JavaSessionsCode"><b>JavaSessionsCode</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/61-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/92-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr> !>
 </tbody>
 </table>
 
