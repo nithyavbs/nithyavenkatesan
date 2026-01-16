@@ -33,7 +33,7 @@
 🏢 **Nithya Venkatesan**
 
 
-💼 **5+ YOE**
+💼 **4+ YOE**
 
 🔭 Currently working on **[Software Associate]**
 
