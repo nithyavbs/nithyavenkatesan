@@ -15,9 +15,7 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-Test-70a5fd?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/5+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
-  //<img src="https://img.shields.io/badge/2088-Stars_Earned-70a5fd?style=for-the-badge" alt="stars"/>
- // <img src="https://komarev.com/ghpvc/?username=naveenanimation20&style=for-the-badge&color=70a5fd" alt="views"/>
-</p>
+  </p>
 
 <!-- SOCIAL LINKS -->
 <p>
@@ -103,7 +101,7 @@
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
-//<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 </div>
 </td>
 </tr>
@@ -117,7 +115,6 @@
 <div align="center">
 
 <a href="https://github.com/nithyavbs/ECommerce/tree/master"><img src="https://github.com/nithyavbs/ECommerce/blob/master/README.md" alt="PageObjectModel"/></a>
-//<a href="https://github.com/naveenanimation20/SeleniumJavaCourse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenanimation20&repo=SeleniumJavaCourse&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="SeleniumJavaCourse"/></a>
 <a href="https://github.com/nithyavbs/Selenium/tree/main/CucumberProjectT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenanimation20&repo=CucumberSeleniumFramework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="CucumberSeleniumFramework"/></a>
 <a href="https://github.com/nithyavbs/Selenium/tree/main/TestNgProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenanimation20&repo=LatestCucumber6WithPOM&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="TestNG Framework Project"/></a>
 
@@ -140,8 +137,8 @@
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/nithyavbs/Selenium"><b>SeleniumJavaCourse</b></a></td>
-<td>Selenium Java Code for all selenium sessions - WebDriver, Te...</td>
+<td><a href="https://github.com/nithyavbs/Selenium"><b>SeleniumJava</b></a></td>
+<td>Selenium Java Code for all selenium concepts - WebDriver, Te...</td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
@@ -150,7 +147,7 @@
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/nithyavbs/Selenium/tree/main/TestNgProject"><b>LatestCucumber6WithPOM</b></a></td>
+<td><a href="https://github.com/nithyavbs/Selenium/tree/main/TestNgProject"><b>TestNG framework</b></a></td>
 <td>TestNG framework with POM(Page Object Model)</td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
@@ -158,10 +155,6 @@
 </table>
 
 ---
-
-
----
-
 
 <div align="center">
 
